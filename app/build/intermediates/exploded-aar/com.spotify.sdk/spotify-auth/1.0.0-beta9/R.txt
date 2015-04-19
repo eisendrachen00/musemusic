@@ -1,0 +1,5 @@
+int id com_spotify_sdk_login_webview 0x7f040001
+int id com_spotify_sdk_login_webview_container 0x7f040000
+int layout com_spotify_sdk_login_activity 0x7f020000
+int layout com_spotify_sdk_login_dialog 0x7f020001
+int string com_spotify_sdk_login_progress 0x7f030000

@@ -1,0 +1,7 @@
+<!-- res/values/styles.xml -->
+<resources>
+    <!-- your theme inherits from the material theme -->
+    <style name="AppTheme" parent="android:Theme.Material">
+        <!-- theme customizations -->
+    </style>
+</resources>

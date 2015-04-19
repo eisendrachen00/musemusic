@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/kasia/Projects/android-sdk/auth/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="com_spotify_sdk_login_progress">Loading…</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1089efa4a24767294278997764bea2fda31ccca">
+        <dex dex="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/pre-dexed/debug/classes-f403e1b60f5b657fec37a72393a7ff92583fcea0.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/pre-dexed/debug/classes-a936850e53db93e11e4cc0742146a122e13f0dc9.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta9/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ce48e0e9dcaaba897077f28799eb564516430920">
+        <dex dex="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/pre-dexed/debug/classes-4b7cf0955591b4b8585e7895274d4c466d4bb76f.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player/1.0.0-beta9/libs/jnihelpers-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f967424e27e42f211ecc43e63912a8bed1f17bd">
+        <dex dex="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/pre-dexed/debug/jnihelpers-1.0-7e9ec70277e2cbfdc0f0fc4fe853d4d513536a56.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-06fc407ed7a756fc75e2659d9b3ccfa776fa2eb4.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/pre-dexed/debug/classes-525b1348923f4b7ff877a793179d82bb2467b854.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player/1.0.0-beta9/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7d7c27f03215dfdf3c7b6d34a106e2fd0b061fe3">
+        <dex dex="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/pre-dexed/debug/classes-1b687d8bb26745d030a412b2940ac9343374d91e.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-37b33586dc2783311c055f92346a1e933255400e.jar" />
+    </item>
+    <item
+        jar="/Users/shannoncox/Android/MuseMusic/app/libs/libmuseandroid.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29c9db643c9cd140b86ad1788d6b9fdf96983037">
+        <dex dex="/Users/shannoncox/Android/MuseMusic/app/build/intermediates/pre-dexed/debug/libmuseandroid-b8f63ce8b7f988840a211cd360e32a54b2461cde.jar" />
+    </item>
+
+</items>
