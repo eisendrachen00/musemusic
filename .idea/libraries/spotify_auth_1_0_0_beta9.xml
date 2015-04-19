@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="spotify-auth-1.0.0-beta9">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta9/res" />
       <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta9/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

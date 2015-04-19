@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
     <eat-comment/>
     <integer-array name="blood">
         <item>@color/blood_darker</item>
@@ -74,10 +74,10 @@
         <item>@color/snow_primary</item>
         <item>@color/snow_light</item>
     </integer-array>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="dimension" name="fl_borderWidth"/>
     <attr format="dimension" name="fl_cornerRadius"/>
@@ -97,7 +97,7 @@
         <enum name="fl_ease" value="1"/>
         <enum name="fl_ripple" value="2"/>
     </attr>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
@@ -118,7 +118,7 @@
     <color name="background_floating_material_light">#ffeeeeee</color>
     <color name="background_material_dark">#ff303030</color>
     <color name="background_material_light">#ffeeeeee</color>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="blood_dark">#a63124</color>
     <color name="blood_darker">#732219</color>
@@ -128,7 +128,7 @@
     <color name="blossom_darker">#8f5e76</color>
     <color name="blossom_light">#e8d1dc</color>
     <color name="blossom_primary">#e898bf</color>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -138,7 +138,7 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="candy_dark">#bf505a</color>
     <color name="candy_darker">#80363c</color>
@@ -152,13 +152,13 @@
     <color name="deep_darker">#232b35</color>
     <color name="deep_light">#c7dbf4</color>
     <color name="deep_primary">#2d3845</color>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="grape_dark">#4f456b</color>
     <color name="grape_darker">#362f4a</color>
@@ -168,7 +168,7 @@
     <color name="grass_darker">#124c38</color>
     <color name="grass_light">#a8e3ce</color>
     <color name="grass_primary">#2ab081</color>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
@@ -181,13 +181,13 @@
     <color name="material_blue_grey_950">#ff21272b</color>
     <color name="material_deep_teal_200">#ff80cbc4</color>
     <color name="material_deep_teal_500">#ff009688</color>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="orange_dark">#cc5d35</color>
     <color name="orange_darker">#994628</color>
     <color name="orange_light">#ffbfa8</color>
     <color name="orange_primary">#ff7342</color>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">#ff000000</color>
     <color name="primary_dark_material_light">#ff757575</color>
@@ -199,7 +199,7 @@
     <color name="primary_text_disabled_material_light">#39000000</color>
     <color name="ripple_material_dark">#40ffffff</color>
     <color name="ripple_material_light">#40000000</color>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="sand_dark">#d4a14a</color>
     <color name="sand_darker">#ad843d</color>
@@ -209,13 +209,13 @@
     <color name="sea_darker">#1a3b6c</color>
     <color name="sea_light">#d5e3f7</color>
     <color name="sea_primary">#2d72d9</color>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.github.eluleci/flatui/3.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="sky_dark">#0e8b9e</color>
     <color name="sky_darker">#0b6978</color>
@@ -225,7 +225,7 @@
     <color name="snow_darker">#c8c8c8</color>
     <color name="snow_light">#fafafa</color>
     <color name="snow_primary">#e8e8e8</color>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
@@ -297,11 +297,11 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -319,6 +319,11 @@
     <item name="split_action_bar" type="id"/>
     <item name="up" type="id"/>
     <integer name="abc_max_action_buttons">2</integer>
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="SongInfo">DIEDIEDIE</string>
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -335,7 +340,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="accel">Accelerometer Data:</string>
     <string name="action_settings">Settings</string>
@@ -343,10 +348,10 @@
     <string name="app_name">MuseMusic</string>
     <string name="artifacts">Blinks, Jaw: </string>
     <string name="beta_label">Beta:</string>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta9/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta9/res/values/values.xml -->
     <eat-comment/>
     <string name="com_spotify_sdk_login_progress">Loading…</string>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="connect">Connect</string>
     <string name="disconnect">Disconnect</string>
@@ -362,12 +367,12 @@
     <string name="undefined">unknown</string>
     <string name="version">Version:</string>
     <string name="waves_label"/>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="android:Theme.Material">
         <!-- theme customizations -->
     </style>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance">
         <item name="android:textColor">?android:textColorPrimary</item>

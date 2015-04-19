@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/src/main/res/values-v21/styles.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/src/main/res/values-v21/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="android:Theme.Material">
         <!-- theme customizations -->
     </style>
-    <!-- From: file:/Users/shannoncox/Android/MuseMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v21/values.xml -->
+    <!-- From: file:/C:/Users/Shannon/AndroidStudioProjects/musemusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v21/values.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance.Material"/>
     <style name="Base.TextAppearance.AppCompat.Body1" parent="android:TextAppearance.Material.Body1"/>

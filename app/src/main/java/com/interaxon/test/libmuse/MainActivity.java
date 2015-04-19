@@ -17,6 +17,7 @@ import android.view.View.OnClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.Spinner;
 import android.widget.TextView;
 
@@ -108,7 +109,7 @@ public class MainActivity extends Activity implements OnClickListener, PlayerNot
         // onPostExecute displays the results of the AsyncTask.
         @Override
         protected void onPostExecute(String result) {
-            TextView elem1 = (TextView) findViewById(R.id.song_info);
+            TextView elem1 = (TextView) findViewById(R.id.Songinfo);
             elem1.setText(result);
             //Toast.makeText(getBaseContext(), "Received!", Toast.LENGTH_LONG).show();
             //etResponse.setText(result);
@@ -449,11 +450,16 @@ public class MainActivity extends Activity implements OnClickListener, PlayerNot
         connectButton.setOnClickListener(this);
         Button disconnectButton = (Button) findViewById(R.id.disconnect);
         disconnectButton.setOnClickListener(this);
-        Button pauseButton = (Button) findViewById(R.id.pause);
+        AuthenticationClient.openLoginActivity(this, REQUEST_CODE, request);
+        ImageButton pauseButton = (ImageButton) findViewById(R.id.spotPause);
+        pauseButton.setBackgroundResource(R.drawable.pause);
         pauseButton.setOnClickListener(this);
+        ImageButton nextButton = (ImageButton) findViewById(R.id.next);
+        nextButton.setBackgroundResource(R.drawable.next);
+        nextButton.setOnClickListener(this);
         Log.i("Muse Headband", "libmuse version=" + LibMuseVersion.SDK_VERSION);
     }
-
+    boolean pauseBool = false;
     @Override
     public void onClick(View v) {
         Spinner musesSpinner = (Spinner) findViewById(R.id.muses_spinner);
@@ -512,11 +518,32 @@ public class MainActivity extends Activity implements OnClickListener, PlayerNot
                 muse.disconnect(true);
             }
         }
-        else if (v.getId() == R.id.pause) {
-            dataTransmission = !dataTransmission;
-            if (muse != null) {
-                muse.enableDataTransmission(dataTransmission);
+        else  if (v.getId() == R.id.spotPause) {
+            ImageButton pauseButton = (ImageButton) findViewById(R.id.spotPause);
+            if(!pauseBool) {
+                mPlayer.pause();
+                pauseButton.setBackgroundResource(R.drawable.play);
+                pauseBool = true;
+            }else{
+                mPlayer.resume();
+                pauseButton.setBackgroundResource(R.drawable.pause);
+                pauseBool = false;
             }
+        }
+        else if (v.getId() == R.id.next) {
+            //Compute head stuff and display
+            mPlayer.skipToNext();
+            mPlayer.getPlayerState(new PlayerStateCallback() {
+                @Override
+                public void onPlayerState(PlayerState playerState) {
+                    if(!playerState.playing){
+                        mPlayer.getPlayerState(this);
+                    }else {
+                        System.out.println("Track Uri " + playerState.trackUri);
+                        new HttpAsyncTask().execute("https://api.spotify.com/v1/tracks/" + playerState.trackUri.split(":")[2] );
+                    }
+                }
+            });
         }
     }
 
