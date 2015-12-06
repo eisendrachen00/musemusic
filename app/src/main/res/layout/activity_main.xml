@@ -4,20 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_weight="1"
-        android:orientation="horizontal"
-        android:layout_gravity="center_horizontal">
-        <TextView android:id="@+id/song_info"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/undefined" />
-    </LinearLayout>
-
-
-
     <!-- BUTTONS -->
     <Spinner
 	    android:id="@+id/muses_spinner"
@@ -73,7 +59,20 @@
             android:text="@string/undefined" />
     </LinearLayout>
 
-
+    <LinearLayout
+        android:id="@+id/R"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageButton android:layout_width="88px"
+            android:layout_height="91px"
+            android:id="@+id/spotPause"/>
+        <ImageButton android:layout_width="88px"
+            android:layout_height="91px"
+            android:id="@+id/next"/>
+        <TextView android:text="@string/SongInfo" android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/Songinfo" />
+    </LinearLayout>
     <!-- START OF OUR DISPLAY TEXT CODE -->
 
     <LinearLayout

@@ -106,7 +106,7 @@ public final class R {
 		public static final int transparent = 0x7f090025;
 	}
 	public static final class string {
-		public static final int app_name = 0x7f0b0013;
+		public static final int app_name = 0x7f0b0014;
 	}
 	public static final class styleable {
 		public static final int[] fl_FlatAutoCompleteTextView = { 0x7f010001, 0x7f010002, 0x7f010004, 0x7f010005, 0x7f010006, 0x7f010008, 0x7f010009, 0x7f0100b3 };
